@@ -1,3 +1,3 @@
 # goit-markup-hw-06
 
-GoIT HW #6
+goit-js-hw-01
